@@ -20,6 +20,13 @@ To perform a search, the user will enter the filter criteria they are wanting to
 
 One drawback of the webpage is that it does not provide a clear opinion from the Ufologists on if the sighting was Fact or Fantasy. An enhancment that would help support this would be to add a column on the table to display the Ufologists' opinion about if it was fact or fantasy. Another enhancment that is needed is to review the coding done for the comments data. There seems to be additional code that is not translated into text. A final enhancment that would be helpfull would be a search button. By doing this it would allow the user to enter multipe criteria and then have the output narrowed down to the multi search criteria.
 
+    
+---
 
+### **Contact**
+
+Email: [AshleyRae1219@gmail.com](mailto:ashleyrae1219@gmail.com)
+
+LinkedIn: [Ashley Morgan](https://www.linkedin.com/in/morganashleyr/)
 
 
